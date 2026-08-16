@@ -1,6 +1,6 @@
 # 🏥 XYZ Medical Center – Emergency Room Operational Analytics
 
-![Power BI Dashboard](XYZ Medical ER Dashboard.png)
+![Power BI Dashboard](XYZ%20Medical%20ER%20Dashboard.png)
 
 ## 📌 Executive Summary
 This interactive Power BI dashboard provides an end-to-end operational overview of patient volume, wait times, admission rates, and satisfaction metrics for **XYZ Medical Center**. Designed for hospital operations leadership, it identifies peak ER emergency hours, specialist referral bottlenecks, and patient demographic distributions to optimize staffing and reduce wait times.
